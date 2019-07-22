@@ -1,1 +1,9 @@
-# vtec_multi-path
+# Multi‐Exposure Pathway Model to Compare Escherichia coli O157 Risks and Interventions 
+
+## Abstract
+
+The relative contributions of exposure pathways associated with cattle‐manure‐borne Escherichia coli O157:H7 on public health have yet to be fully characterized. A stochastic, quantitative microbial risk assessment (QMRA) model was developed to describe a hypothetical cattle farm in order to compare the relative importance of five routes of exposure, including aquatic recreation downstream of the farm, consumption of contaminated ground beef processed with limited interventions, consumption of leafy greens, direct animal contact, and the recreational use of a cattle pasture. To accommodate diverse environmental and hydrological pathways, existing QMRAs were integrated with novel and simplistic climate and field‐level submodels. The model indicated that direct animal contact presents the greatest risk of illness per exposure event during the high pathogen shedding period. However, when accounting for the frequency of exposure, using a high‐risk exposure‐receptor profile, consumption of ground beef was associated with the greatest risk of illness. Additionally, the model was used to evaluate the efficacy of hypothetical interventions affecting one or more exposure routes; concurrent evaluation of multiple routes allowed for the assessment of the combined effect of preharvest interventions across exposure pathways—which may have been previously underestimated—as well as the assessment of the effect of additional downstream interventions. This analysis represents a step towards a full evaluation of the risks associated with multiple exposure pathways; future incorporation of variability associated with environmental parameters and human behaviors would allow for a comprehensive assessment of the relative contribution of exposure pathways at the population level.
+
+## Links
+
+https://doi.org/10.1111/risa.12826
